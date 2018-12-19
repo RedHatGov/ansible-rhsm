@@ -1,0 +1,8 @@
+---
+# defaults file for rhsm
+rhsm_username: rhnuser
+rhsm_password: p@ssw0rd
+#Can be a single pool id or list of pool ids
+rhsm_pool: []
+rhsm_consumer_name: host.example.com
+rhsm_repos: []

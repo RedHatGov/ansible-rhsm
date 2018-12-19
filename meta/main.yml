@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: rhsm
+  author: Jared Hocutt
+  description: This role allows attaching a RHEL system to a Red Hat Subscription
+  company: Red Hat
+  license: GPLv3
+  min_ansible_version: 2.4
+  platforms:
+    - name: RHEL
+      versions:
+        - 7
+  galaxy_tags:
+    - "Red Hat"
+    - subscription-manager
+    - rhel
+
+dependencies: []
