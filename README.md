@@ -18,6 +18,7 @@ Role Variables
 | `rhsm_password` | :heavy_check_mark:      |  | The Red Hat Network (RHN) password for the user that owns the subscriptions |
 | `rhsm_pool` | :heavy_check_mark:      |  | This is the subscription pool id(s) for the Red Hat Product you are subscribing to. Can be a single pool id or a list |
 | `rhsm_consumer_name` | :x:      | `host.example.com` | A name to send along during registration to easily identify the subscribed system |
+| `rhsm_repos` | :heavy_check_mark:      |  | A list of Red Hat repositories that you want to enable |
 
 Dependencies
 ------------
