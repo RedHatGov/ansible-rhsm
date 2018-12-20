@@ -6,12 +6,12 @@ galaxy_info:
   license: GPLv3
   min_ansible_version: 2.4
   platforms:
-    - name: RHEL
+    - name: EL
       versions:
         - 7
   galaxy_tags:
-    - "Red Hat"
-    - subscription-manager
+    - redhat
+    - subscriptionmanager
     - rhel
 
 dependencies: []
