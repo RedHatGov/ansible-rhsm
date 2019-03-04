@@ -40,7 +40,7 @@ Example Playbook
       - rhel-7-server-rpms
       - rhel-7-server-extras-rpms
   roles:
-    - redhatgov.rhsm
+    - RedHatGov.rhsm
 ```
 
 License
