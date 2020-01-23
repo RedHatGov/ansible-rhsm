@@ -3,6 +3,8 @@ rhsm
 
 This role allows attaching a RHEL system to a Red Hat Subscription
 
+> NOTE: this role will be deprecated in favor of the [OASIS rhsm role](https://github.com/oasis-roles/rhsm)
+
 Requirements
 ------------
 
